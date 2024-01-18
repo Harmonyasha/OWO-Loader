@@ -7,4 +7,4 @@ OWO-Loader Is currently private because its have undone stuff
   </p>
 
 # Thanks for Modules
-- [Reinitialized](https://www.roblox.com/users/189503) for [vLua](https://www.roblox.com/library/4689019964/vLua-Loadstring-reimplemented-in-Lua)
+- [Reinitialized](https://www.roblox.com/users/189503) for [vLua](https://www.roblox.com/library/4689019964)
