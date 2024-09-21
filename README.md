@@ -4,7 +4,9 @@ The OwO Loader is a Python project and it's can recreate Instance/Run scripts fr
 # Setup
 Latest Python version and all the libraries in code also change the URL in the main module to your hosting (I'll add the requirements soon ig)
 
-
+# List of currently not supported stuff
++ ParticleEmmiter\
++ LocalScripts\LocalModules
 
 [RobloxModel](https://create.roblox.com/store/asset/15521788629/)
 
