@@ -7,6 +7,12 @@ Latest Python version and all the libraries in code also change the URL in the m
 # List of currently not supported stuff
 + ParticleEmmiter
 + LocalScripts\LocalModules
++ Some things like attachments welds etc
+
+# List of things that will never be supported
++ Union
++ MeshParts
+
 
 [RobloxModel](https://create.roblox.com/store/asset/15521788629/)
 
